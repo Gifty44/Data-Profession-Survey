@@ -6,6 +6,10 @@ This project aims to highlight the importance of comprehensive and up-to-date su
 Problem Statement:
 The lack of comprehensive and up-to-date survey data on the career trajectories, compensation, and experiences of data professionals hinders our understanding of their entry pathways into the field, salary benchmarks, and the factors influencing their career progression. Existing data sources have limitations in terms of coverage, timeliness, and depth of information.
 
+Findings:
+![Data Profession Dashboard](https://github.com/Gifty44/Data-Profession-Survey/raw/ad9698a183d0e8ed564a5ddb4f30517afddbaf31/dashboard.png)
+
+
 Importance of Survey Data:
 Comprehensive and up-to-date survey data is crucial for several reasons:
 
