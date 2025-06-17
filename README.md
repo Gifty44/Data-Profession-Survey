@@ -1,14 +1,15 @@
 # Survey Data on the Career Trajectories, Compensation, and Experiences of Data Analysts, Data Scientists, and Other Data Professionals
 
-Executive Summary
+### Executive Summary
 Title: Data Professional Survey Breakdown – Insights into Career Pathways, Compensation, and Satisfaction
 
-Purpose
+### Purpose
 The data industry is evolving rapidly, yet there remains a lack of comprehensive and up-to-date information about the career trajectories, compensation trends, and workplace experiences of data professionals. This survey-based analysis addresses that gap by examining the responses of 630 data professionals across various job roles and countries. It provides actionable insights for stakeholders including aspiring data professionals, educators, employers, and policymakers.
 
-Key Findings
+### Key Findings
 
 ![Data Profession Dashboard](https://github.com/Gifty44/Data-Profession-Survey/raw/ad9698a183d0e8ed564a5ddb4f30517afddbaf31/dashboard.png)
+
 🔹 Demographics & Reach
 Respondent Count: 630 professionals
 
